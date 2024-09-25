@@ -7,9 +7,13 @@ color:#444;
 font-weight: 400;
 }
 
-h1 {font-size:3em;
+#name {font-size:3em;
 text-transform: uppercase;
 text-align: center;
+border-bottom: 1px;
+width: 60px;
+min-width: 300px;
+margin: 0 auto;
 color:#33485e
 }
 
@@ -19,21 +23,68 @@ strong {
     font-size: 1.5em;
 }
 
-h2 {
+.sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #33485e;
+    text-align: left;
+    margin: 20px 0 10px 0;
+    width: 70px
+    min-width: 300px;
     color:#fff;
 }
 
-h3 {
+.jobtitle {
     font-size: 1.5em;
     font-weight: 600;
 }
 
-h4 {
-    font-size: 1em;
+.organization {
+    font-size: 1.25em;
     font-weight: 400;
+}
+
+.date {
+    margin-top: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu li {
+    display: inline;
+}
+
+#degrees {
+    margin-top: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#do {
+    margin-top: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#title {
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0 0 0;
 }
 
 u1, h2, {
