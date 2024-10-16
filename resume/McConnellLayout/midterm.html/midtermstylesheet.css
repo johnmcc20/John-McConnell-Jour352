@@ -2,3 +2,38 @@
     margin: 0 auto;
     width: 900px; 
   }
+  #byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+  
+    h1 {
+      font-family: 'Helvetica', sans-serif;
+      font-size: 36px;
+      text-align: center;
+  }
+  
+  p {
+      font-family: 'Georgia', serif;
+      font-size: 17px;
+  }
+ 
+blockquote {
+  font: 18px/26px normal helvetica, sans-serif; 
+  font-style: italic; 
+  margin-top: 15px; 
+  margin-bottom: 15px; 
+  color: blue; 
+  margin-left: 50px; 
+  padding-left: 15px; 
+  border-left: 4px solid blue; 
+  } 
+    .gallery img {
+      max-width: 65%;
+      width:400px
+      height: 300px;
+   
+  }
+  
+  /* This is the way to do a hidden comment in CSS rather compared to the html version of a hidden comment */
