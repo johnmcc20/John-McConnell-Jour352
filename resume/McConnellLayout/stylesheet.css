@@ -1,9 +1,7 @@
-
 #content {
-    margin: 0 auto;
-    width: 900px; 
-  }
-
+  margin: 0 auto;
+  width: 900px; 
+}
 #byline {
   font-family: Helvetica, sans-serif;
   font-size: 14px;
@@ -20,6 +18,7 @@ p {
     font-family: 'Georgia', serif;
     font-size: 13px;
 }
+
 blockquote {
   font: 16px/24px normal helvetica, sans-serif; 
   font-style: italic; 
@@ -36,3 +35,4 @@ blockquote {
     height: 500px;
  
 }
+
