@@ -30,6 +30,13 @@ h2 {
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h3 {
+    font-size:1em;
+    font-weight: 600;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
 .gallery img {
     max-width: 65%;
     width:400px
@@ -48,3 +55,14 @@ footer {
     padding: 20px; 
     text-align: center; 
 }
+
+blockquote {
+    font: 18px/26px normal helvetica, sans-serif; 
+    font-style: italic; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+    color: red; 
+    margin-left: 50px; 
+    padding-left: 15px; 
+    border-left: 4px solid red; 
+    } 
