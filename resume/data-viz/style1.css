@@ -51,14 +51,14 @@ h3 {
   }
 
 footer {
-    background-color: #333; 
+    background-color: #030C0B; 
     color: #fff; 
     padding: 20px; 
-    text-align: center; 
+    text-align:center; 
 }
 
 blockquote {
-    font: 18px/26px normal helvetica, sans-serif; 
+    font: 18px/26px niagara solid; 
     font-style: italic; 
     margin-top: 15px; 
     margin-bottom: 15px; 
@@ -68,6 +68,3 @@ blockquote {
     border-left: 4px solid red; 
     } 
 
-figcaption {
-    
-}
