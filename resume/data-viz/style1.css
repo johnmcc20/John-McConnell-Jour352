@@ -32,15 +32,16 @@ h2 {
 }
 
 h3 {
-    font-size:1em;
-    font-weight: 600;
+    font-size:3em;
+    font-weight: 900;
     text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:red 
 }
 .gallery img {
     max-width: 65%;
-    width:800px
-    height: 700px;
+    width:900px
+    height: 900px;
  
 }
 
